@@ -1,6 +1,16 @@
 # Thonvim
 A simple minimal nvim config for being able to create, debug and handle python projects.
 
+
+# Prerequisities
+
+For Pyright to work nodejs and npm.
+
+For arch or similar:
+```
+sudo pacman -S nodejs npm
+```
+
 # Packages to install
 
 # Other things to do 
