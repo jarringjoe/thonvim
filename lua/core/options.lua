@@ -7,6 +7,7 @@ opt.number = true           -- Show line number for current line
 opt.relativenumber = true	-- Show relative line numbers
 opt.scrolloff = 8		    -- Min num of lines of context when scrolling
 opt.undofile = true         -- Save undo history
+opt.conceallevel = 2        -- see help conceallevel, but makes nice characters together with the obsidian plugin, todo-lists for exampel.
 
 -- [[ File ]]
 opt.encoding = 'utf8'		-- String encoding to use
